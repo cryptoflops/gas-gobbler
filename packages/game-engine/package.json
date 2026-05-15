@@ -1,13 +1,17 @@
 {
-  "name": "@celo-arcade/game-engine",
+  "name": "@cryptoflops/gas-gobbler",
   "version": "1.0.0",
-  "description": "Shared game engine logic for frontend and backend",
+  "description": "Gas Gobbler game engine - Celo arcade game with on-chain scoring",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc -b",
     "clean": "rm -rf dist"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": ["celo", "gas-gobbler", "arcade", "web3", "game-engine", "minipay"],
   "dependencies": {},
   "devDependencies": {
     "typescript": "^5.0.0"

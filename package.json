@@ -1,7 +1,7 @@
 {
-  "name": "celo-arcade",
+  "name": "@cryptoflops/gas-gobbler",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gas Gobbler - Celo arcade game engine",
   "main": "index.js",
   "scripts": {
     "test": "npm run test --workspaces",
@@ -10,8 +10,8 @@
     "build:web": "npm run build --workspace=apps/web",
     "build:api": "npm run build --workspace=apps/api"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["celo", "arcade", "gas-gobbler", "web3", "minipay"],
+  "author": "cryptoflops",
   "license": "ISC",
   "type": "commonjs",
   "workspaces": [
