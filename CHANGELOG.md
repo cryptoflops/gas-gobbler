@@ -3,8 +3,8 @@
 ## [Unreleased] - 2026-05-16
 
 ### Changed
-- Optimized RPC batch requests
-- Reduced bundle size by tree-shaking
+- Refactored wallet connection flow
+- Cleaned up unused imports
 
 ### Fixed
-- Resolved race condition in wallet sync
+- Fixed edge case in balance display
