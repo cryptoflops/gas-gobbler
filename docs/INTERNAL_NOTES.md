@@ -7,3 +7,4 @@
 - Pushing work-in-progress state before context switch.
 - Pushing work-in-progress state before context switch.
 - Checked backward compatibility with older Celo RPC responses. The L2 migration changed some receipt fields.
+- Checked backward compatibility with older Celo RPC responses. The L2 migration changed some receipt fields.
