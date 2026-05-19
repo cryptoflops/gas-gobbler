@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-05-17
+## [Unreleased] - 2026-05-19
 
 ### Changed
-- Improved error handling in contract interactions
-- Reduced bundle size by tree-shaking
+- Updated dependencies to latest stable
+- Cleaned up unused imports
 
 ### Fixed
 - Corrected gas estimation for Celo L2
