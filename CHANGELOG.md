@@ -1,9 +1,9 @@
 # Changelog
 
-## [Unreleased] - 2026-05-20
+## [Unreleased] - 2026-05-25
 
 ### Changed
-- Refactored wallet connection flow
+- Improved loading state indicators
 - Added input validation for amounts
 
 ### Fixed
