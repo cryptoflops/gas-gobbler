@@ -10,3 +10,4 @@
 - Checked backward compatibility with older Celo RPC responses. The L2 migration changed some receipt fields.
 - Tested the NetworkEnforcer component with chain switching. Smooth on MiniPay, slight delay on MetaMask.
 - Noticed the useBalance hook refetches on every block. Consider adding staleTime to reduce RPC load.
+- The AppKit modal does not render in MiniPay WebView which is expected. Auto-connect via injected handles it.
