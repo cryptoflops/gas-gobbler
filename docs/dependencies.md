@@ -1,6 +1,6 @@
 # Dependency Decisions
 
-Updated: 2026-05-22
+Updated: 2026-05-28
 
 ## Core
 - ethers: ^6.13.0 (Celo L2 compatible)
