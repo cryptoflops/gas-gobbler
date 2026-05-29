@@ -12,3 +12,4 @@
 - Noticed the useBalance hook refetches on every block. Consider adding staleTime to reduce RPC load.
 - The AppKit modal does not render in MiniPay WebView which is expected. Auto-connect via injected handles it.
 - Tested cUSD approve + deposit flow on Celo mainnet. Gas estimates stable at ~45k per tx.
+- Framer Motion animations perform well on low-end Android devices commonly used with MiniPay.
