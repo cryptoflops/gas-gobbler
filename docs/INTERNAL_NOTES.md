@@ -18,3 +18,4 @@
 - The useMiniPay hook detects isMiniPay synchronously, but some devices inject the provider async. Added 500ms fallback.
 - The escrow contract refund timeout (7 days) seems appropriate for freelance gig markets.
 - Investigated rendering jitter on mobile layout when switching between MiniPay and desktop contexts.
+- The useMiniPay hook detects isMiniPay synchronously, but some devices inject the provider async. Added 500ms fallback.
