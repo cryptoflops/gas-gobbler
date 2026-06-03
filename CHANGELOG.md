@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-06-01
+## [Unreleased] - 2026-06-03
 
 ### Changed
-- Refactored wallet connection flow
+- Enhanced mobile responsiveness
 - Added input validation for amounts
 
 ### Fixed
-- Fixed decimal formatting for small amounts
+- Resolved race condition in wallet sync
