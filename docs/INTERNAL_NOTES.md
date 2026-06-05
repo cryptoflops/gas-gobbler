@@ -20,3 +20,4 @@
 - Investigated rendering jitter on mobile layout when switching between MiniPay and desktop contexts.
 - The useMiniPay hook detects isMiniPay synchronously, but some devices inject the provider async. Added 500ms fallback.
 - The useMiniPay hook detects isMiniPay synchronously, but some devices inject the provider async. Added 500ms fallback.
+- Tested the NetworkEnforcer component with chain switching. Smooth on MiniPay, slight delay on MetaMask.
