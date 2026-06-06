@@ -22,3 +22,4 @@
 - The useMiniPay hook detects isMiniPay synchronously, but some devices inject the provider async. Added 500ms fallback.
 - Tested the NetworkEnforcer component with chain switching. Smooth on MiniPay, slight delay on MetaMask.
 - Framer Motion animations perform well on low-end Android devices commonly used with MiniPay.
+- The AppKit modal does not render in MiniPay WebView which is expected. Auto-connect via injected handles it.
