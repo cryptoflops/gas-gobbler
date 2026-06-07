@@ -1,9 +1,9 @@
 # Dependency Decisions
 
-Updated: 2026-06-06
+Updated: 2026-06-07
 
 ## Core
-- ethers: ^6.11.0 (Celo L2 compatible)
+- ethers: ^6.12.1 (Celo L2 compatible)
 - viem: ^2.9.0 (alternative provider)
 - next: 14.2.3
 
