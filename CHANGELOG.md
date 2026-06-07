@@ -1,9 +1,9 @@
 # Changelog
 
-## [Unreleased] - 2026-06-04
+## [Unreleased] - 2026-06-07
 
 ### Changed
-- Enhanced mobile responsiveness
+- Optimized RPC batch requests
 - Added retry logic for failed transactions
 
 ### Fixed
