@@ -24,3 +24,4 @@
 - Framer Motion animations perform well on low-end Android devices commonly used with MiniPay.
 - The AppKit modal does not render in MiniPay WebView which is expected. Auto-connect via injected handles it.
 - Tested the NetworkEnforcer component with chain switching. Smooth on MiniPay, slight delay on MetaMask.
+- Noticed the useBalance hook refetches on every block. Consider adding staleTime to reduce RPC load.
