@@ -26,3 +26,4 @@
 - Tested the NetworkEnforcer component with chain switching. Smooth on MiniPay, slight delay on MetaMask.
 - Noticed the useBalance hook refetches on every block. Consider adding staleTime to reduce RPC load.
 - Reviewed WagmiProvider config. The QueryClient should probably have a longer gcTime for balance queries.
+- Checked backward compatibility with older Celo RPC responses. The L2 migration changed some receipt fields.
