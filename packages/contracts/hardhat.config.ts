@@ -22,27 +22,9 @@ const config: HardhatUserConfig = {
   },
   etherscan: {
     apiKey: {
+      celo: process.env.CELOSCAN_API_KEY || "",
       celoSepolia: process.env.CELOSCAN_API_KEY || "",
-      celoMainnet: process.env.CELOSCAN_API_KEY || "",
     },
-    customChains: [
-      {
-        network: "celoSepolia",
-        chainId: 11142220,
-        urls: {
-          apiURL: "https://celo-sepolia.blockscout.com/api",
-          browserURL: "https://celo-sepolia.blockscout.com",
-        },
-      },
-      {
-        network: "celoMainnet",
-        chainId: 42220,
-        urls: {
-          apiURL: "https://api.celoscan.io/api",
-          browserURL: "https://celoscan.io",
-        },
-      },
-    ],
   },
   sourcify: {
     enabled: true,
