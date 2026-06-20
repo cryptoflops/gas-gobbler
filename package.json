@@ -1,5 +1,5 @@
 {
-  "name": "celo-arcade",
+  "name": "@cryptoflops/gas-gobbler-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,5 +17,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
