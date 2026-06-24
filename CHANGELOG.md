@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-06-23
+## [Unreleased] - 2026-06-24
 
 ### Changed
-- Refactored wallet connection flow
-- Added retry logic for failed transactions
+- Enhanced mobile responsiveness
+- Cleaned up unused imports
 
 ### Fixed
-- Corrected gas estimation for Celo L2
+- Fixed edge case in balance display
