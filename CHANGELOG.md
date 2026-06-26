@@ -3,8 +3,8 @@
 ## [Unreleased] - 2026-06-26
 
 ### Changed
-- Improved error handling in contract interactions
-- Added input validation for amounts
+- Enhanced mobile responsiveness
+- Cleaned up unused imports
 
 ### Fixed
-- Corrected gas estimation for Celo L2
+- Resolved race condition in wallet sync
