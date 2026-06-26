@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-06-25
+## [Unreleased] - 2026-06-26
 
 ### Changed
-- Optimized RPC batch requests
-- Reduced bundle size by tree-shaking
+- Improved error handling in contract interactions
+- Added input validation for amounts
 
 ### Fixed
-- Fixed edge case in balance display
+- Corrected gas estimation for Celo L2
