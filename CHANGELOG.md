@@ -3,8 +3,8 @@
 ## [Unreleased] - 2026-06-26
 
 ### Changed
-- Enhanced mobile responsiveness
-- Cleaned up unused imports
+- Optimized RPC batch requests
+- Reduced bundle size by tree-shaking
 
 ### Fixed
-- Resolved race condition in wallet sync
+- Fixed decimal formatting for small amounts
