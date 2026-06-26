@@ -7,4 +7,4 @@
 - Reduced bundle size by tree-shaking
 
 ### Fixed
-- Fixed decimal formatting for small amounts
+- Resolved race condition in wallet sync
