@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-06-28
+## [Unreleased] - 2026-06-29
 
 ### Changed
 - Improved loading state indicators
-- Reduced bundle size by tree-shaking
+- Added input validation for amounts
 
 ### Fixed
 - Resolved race condition in wallet sync
