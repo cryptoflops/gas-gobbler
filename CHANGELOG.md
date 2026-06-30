@@ -3,8 +3,8 @@
 ## [Unreleased] - 2026-06-30
 
 ### Changed
-- Refactored wallet connection flow
+- Updated dependencies to latest stable
 - Cleaned up unused imports
 
 ### Fixed
-- Corrected gas estimation for Celo L2
+- Fixed decimal formatting for small amounts
