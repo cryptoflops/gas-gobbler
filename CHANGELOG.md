@@ -3,8 +3,8 @@
 ## [Unreleased] - 2026-06-30
 
 ### Changed
-- Updated dependencies to latest stable
-- Cleaned up unused imports
+- Enhanced mobile responsiveness
+- Reduced bundle size by tree-shaking
 
 ### Fixed
-- Fixed decimal formatting for small amounts
+- Corrected gas estimation for Celo L2
