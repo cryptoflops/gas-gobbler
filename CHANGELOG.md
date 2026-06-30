@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-06-29
+## [Unreleased] - 2026-06-30
 
 ### Changed
-- Improved loading state indicators
-- Added input validation for amounts
+- Refactored wallet connection flow
+- Cleaned up unused imports
 
 ### Fixed
-- Resolved race condition in wallet sync
+- Corrected gas estimation for Celo L2
