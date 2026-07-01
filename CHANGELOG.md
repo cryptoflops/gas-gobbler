@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-06-30
+## [Unreleased] - 2026-07-01
 
 ### Changed
-- Enhanced mobile responsiveness
-- Reduced bundle size by tree-shaking
+- Improved loading state indicators
+- Added retry logic for failed transactions
 
 ### Fixed
-- Corrected gas estimation for Celo L2
+- Fixed decimal formatting for small amounts
