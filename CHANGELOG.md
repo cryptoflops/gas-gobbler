@@ -3,8 +3,8 @@
 ## [Unreleased] - 2026-07-02
 
 ### Changed
-- Improved loading state indicators
-- Cleaned up unused imports
+- Improved error handling in contract interactions
+- Added retry logic for failed transactions
 
 ### Fixed
-- Fixed decimal formatting for small amounts
+- Fixed edge case in balance display
