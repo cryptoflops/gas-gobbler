@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-07-01
+## [Unreleased] - 2026-07-02
 
 ### Changed
 - Improved loading state indicators
-- Added retry logic for failed transactions
+- Cleaned up unused imports
 
 ### Fixed
 - Fixed decimal formatting for small amounts
