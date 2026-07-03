@@ -7,3 +7,4 @@
 - Tested cUSD approve + deposit flow on Celo mainnet. Gas estimates stable at ~45k per tx.
 - Tested cUSD approve + deposit flow on Celo mainnet. Gas estimates stable at ~45k per tx.
 - Framer Motion animations perform well on low-end Android devices commonly used with MiniPay.
+- Reviewed component tree performance after adding MiniPayBar, no measurable regression.
