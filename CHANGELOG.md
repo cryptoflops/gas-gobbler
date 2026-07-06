@@ -1,10 +1,10 @@
 # Changelog
 
-## [Unreleased] - 2026-07-02
+## [Unreleased] - 2026-07-06
 
 ### Changed
 - Improved error handling in contract interactions
-- Added retry logic for failed transactions
+- Reduced bundle size by tree-shaking
 
 ### Fixed
-- Fixed edge case in balance display
+- Resolved race condition in wallet sync
