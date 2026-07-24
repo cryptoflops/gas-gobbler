@@ -1,10 +1,9 @@
 # Changelog
 
-## [Unreleased] - 2026-07-13
+## [Unreleased] - 2026-07-24
 
 ### Changed
-- Enhanced mobile responsiveness
-- Cleaned up unused imports
+- Optimized RPC batch requests for lower latency
 
 ### Fixed
-- Resolved race condition in wallet sync
+- Corrected gas estimation for Celo L2 calls
