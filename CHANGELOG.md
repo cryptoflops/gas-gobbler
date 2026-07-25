@@ -3,7 +3,7 @@
 ## [Unreleased] - 2026-07-25
 
 ### Changed
-- Refactored wallet connection flow for MiniPay
+- Enhanced mobile responsiveness on smaller screens
 
 ### Fixed
-- Resolved race condition in wallet state sync
+- Corrected gas estimation for Celo L2 calls
