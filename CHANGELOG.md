@@ -1,9 +1,9 @@
 # Changelog
 
-## [Unreleased] - 2026-07-24
+## [Unreleased] - 2026-07-25
 
 ### Changed
-- Refactored wallet connection flow for MiniPay
+- Improved error handling in contract interactions
 
 ### Fixed
-- Corrected gas estimation for Celo L2 calls
+- Fixed decimal formatting for cUSD amounts
