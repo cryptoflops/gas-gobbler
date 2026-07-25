@@ -3,7 +3,7 @@
 ## [Unreleased] - 2026-07-25
 
 ### Changed
-- Improved error handling in contract interactions
+- Refactored wallet connection flow for MiniPay
 
 ### Fixed
-- Fixed decimal formatting for cUSD amounts
+- Fixed edge case in balance display for micro amounts
