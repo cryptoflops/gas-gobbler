@@ -1,9 +1,9 @@
 # Changelog
 
-## [Unreleased] - 2026-07-26
+## [Unreleased] - 2026-07-27
 
 ### Changed
-- Refactored wallet connection flow for MiniPay
+- Updated dependencies to latest stable versions
 
 ### Fixed
-- Resolved race condition in wallet state sync
+- Corrected gas estimation for Celo L2 calls
