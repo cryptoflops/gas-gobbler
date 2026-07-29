@@ -5,7 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 VITE_CHAIN_ID = "42220"
-VITE_SCORE_REGISTRY_ADDRESS = "0x16Dc6c7152cD19eCeb20948Ea7C2bdED3F84eCBC"
+VITE_SCORE_REGISTRY_ADDRESS = "0xf26ed81d52ae4a106344f5739d767e3d603f8370"
 
 [[kv_namespaces]]
 binding = "SESSIONS"
