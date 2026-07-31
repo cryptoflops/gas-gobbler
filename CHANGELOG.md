@@ -1,9 +1,9 @@
 # Changelog
 
-## [Unreleased] - 2026-07-28
+## [Unreleased] - 2026-07-31
 
 ### Changed
-- Refactored wallet connection flow for MiniPay
+- Improved loading state indicators across UI
 
 ### Fixed
-- Fixed edge case in balance display for micro amounts
+- Corrected gas estimation for Celo L2 calls
