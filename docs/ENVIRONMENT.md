@@ -1,6 +1,6 @@
 # gas-gobbler Environment Guide
 
-Generated: 2026-07-29T16:22:54.878Z
+Generated: 2026-07-31T01:21:07.724Z
 
 ## Requirements
 - Node.js >= 18
@@ -10,4 +10,4 @@ Generated: 2026-07-29T16:22:54.878Z
 ## Validation
 Ensure `.env` matches `.env.example` before deployment.
 
-Build: 3002xm02
+Build: 1v8tkgvj
