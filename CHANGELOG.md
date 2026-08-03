@@ -1,9 +1,9 @@
 # Changelog
 
-## [Unreleased] - 2026-08-02
+## [Unreleased] - 2026-08-03
 
 ### Changed
-- Improved error handling in contract interactions
+- Improved loading state indicators across UI
 
 ### Fixed
-- Fixed edge case in balance display for micro amounts
+- Fixed decimal formatting for cUSD amounts
